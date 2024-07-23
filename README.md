@@ -11,4 +11,4 @@
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/PramudithaM/guess-the-number.git
+   git clone https://github.com/PramudithaM/Gest_Number.git
